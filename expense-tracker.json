@@ -1,0 +1,16 @@
+[
+  {
+    "id": "2d9b77e3-aab7-4b6a-8379-a62b3434e452",
+    "name": "Lunch at Maestro",
+    "date": "2024-12-23T14:48:07.170239+07:00",
+    "description": "Lunch",
+    "amount": 70
+  },
+  {
+    "id": "6b4ac4b8-3187-4c3d-8892-e0325a6cebb8",
+    "name": "Bakso si Jangkung",
+    "date": "2024-12-23T14:56:37.854342+07:00",
+    "description": "Bandung Bakso Jangkung",
+    "amount": 30
+  }
+]
